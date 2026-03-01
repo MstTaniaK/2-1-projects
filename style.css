@@ -1,0 +1,8 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border: 20px solid grey;
+    border-bottom: 20px solid skyblue;
+    border-radius: 50%;
+    animation: spinAnimate 1s linear infinite 0s normal;
+}
